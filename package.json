@@ -1,0 +1,19 @@
+{
+  "name": "punch-engine-pug",
+  "version": "1.0.0",
+  "description": "Use the Pug templating engine with Punch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/purag/punch-engine-pug.git"
+  },
+  "author": "Purag Moumdjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purag/punch-engine-pug/issues"
+  },
+  "homepage": "https://github.com/purag/punch-engine-pug#readme"
+}
